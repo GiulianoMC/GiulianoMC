@@ -5,7 +5,7 @@
 ## ✍ About me
 
 <p>
-  <img src="./images/image.png" alt="Imagem Perfil" min-width="400px" max-width="400px" width="400px" align="right">
+  <!--<img src="./images/image.png" alt="Imagem Perfil" min-width="400px" max-width="400px" width="400px" align="right">-->
 
   <p>👨‍💻 Hi! I'm <strong>Giuliano Muscari Campra</strong>, a Computer Engineering student at IFSP - Piracicaba (expected graduation in 2025), passionate about science, technology, and developing real-world solutions through programming.</p>
   <p>💾 I'm currently focusing my studies on <strong>Back-End</strong> and <strong>Data</strong> areas, which have captured my interest the most throughout my academic journey.</p>
